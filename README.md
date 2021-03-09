@@ -3,7 +3,7 @@
 <!--
 **rajankarmakar/rajankarmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a self taught web developer and very interested to learn new web technologies. Currently I am doing internship on ***weDevs***. Basically I am learning ***WordPress Plugin Development***. And I am doing well.
+> I am a self taught web developer and very interested to learn new web technologies. Currently I am doing internship on ***weDevs***. Basically I am learning ***WordPress Plugin Development***. And I am doing well.
 
 - 🔭 I’m currently working on `PHP`, `WordPress`, `React`, `jQuery`, `Javascript`
 - 🌱 I’m currently learning `WordPress`, `Node JS`, `React Native`
