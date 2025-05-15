@@ -3,13 +3,13 @@
 
 <br/>
 
-- 🔭 I’m currently working on **PHP, WordPress, React, jQuery, Javascript**
+- 🔭 I’m currently working on **PHP, WordPress, Shopify, React, jQuery, Javascript**
 
-- 🌱 I’m currently learning **WordPress, Node JS, React Native**
+- 🌱 I’m currently learning **Python, Django**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Django Development**
 
-- 🤝 I’m looking for help with **WordPress**
+- 🤝 I’m looking for help with **Django**
 
 - 💬 Ask me about **Javascript**
 
